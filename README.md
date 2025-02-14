@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <!-- Auto identação: ctrl+shift+i -->
-<p>A nível de estudo, ainda não foi realizada validação dos campos</p>
+<p>Obs.: A nível de estudo, ainda não foi realizada validação dos campos</p>
